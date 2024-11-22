@@ -1,0 +1,80 @@
+.welcome{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 0px 0px 0px;
+}
+
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 100px;
+    padding: 0px;
+}
+
+.pangeainteractive{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 450px;
+}
+
+.intro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 200px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.pangearotate{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 450px;
+}
+
+.introbodies{
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+}
+
+.encyclopediaintro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin: 40px 0px 0px 100px;
+}
+
+.timelineintro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin: 40px 100px 0px 0px;
+}
+
+.introbuttons{
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+}
+
+.dinosaurbutton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 450px;
+    margin: 40px 0px 0px 100px;
+}
+
+.timelinebutton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 450px;
+    margin: 40px 100px 0px 0px;
+}
